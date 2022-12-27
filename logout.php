@@ -18,7 +18,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
   <body>
     <?php require 'signup.php' ?>
   
-
+my name is pankaj
 
 
 
